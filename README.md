@@ -1,9 +1,9 @@
 # Selecting the Optimal Fantasy Premier League Squad with Linear Programming
 
 The goal of this project to build the optimal Fantasy League squad given the following constraints:
-- budget is 100M
-- max 3 players from the same team
-- exactly 2 goalkeepers, 5 defenders, 5 midfielders, 3 strikers
+1) Budget is 100M
+2) Max 3 players from the same club
+3) exactly 2 goalkeepers, 5 defenders, 5 midfielders, 3 strikers
 
 Optimal team definition:
 1) Dream Team - Most points
